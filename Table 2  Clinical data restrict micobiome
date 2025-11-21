@@ -1,0 +1,396 @@
+<html>
+  <head>
+    <meta charset="utf-8"/>
+    <title>SheetJS Table Export</title>
+  </head>
+  <body>
+    <table>
+      <tr>
+        <td colspan="4" data-t="s" data-v="Suplementar table 2. Clinical data restrict micobiome" id="sjs-A1">Suplementar table 2. Clinical data restrict micobiome</td>
+      </tr>
+      <tr>
+        <td data-t="s" data-v="Characteristic" id="sjs-A2">Characteristic</td>
+        <td data-t="s" data-v="stable N = 301" id="sjs-B2">stable<span style="font-size:10pt;"> N = 30</span>
+        <span style="font-size:10pt;">
+          <i>
+            <sup>1</i>
+          </sup>
+        </span>
+      </td>
+      <td data-t="s" data-v="unstable N = 81" id="sjs-C2">unstable<span style="font-size:10pt;"> N = 8</span>
+      <span style="font-size:10pt;">
+        <i>
+          <sup>1</i>
+        </sup>
+      </span>
+    </td>
+    <td data-t="s" data-v="p-value2" id="sjs-D2">p-value<span style="font-size:10pt;">
+      <i>
+        <sup>2</i>
+      </sup>
+    </span>
+  </td>
+</tr>
+<tr>
+  <td data-t="s" data-v="Age" id="sjs-A3">Age</td>
+  <td id="sjs-B3">
+  </td>
+  <td id="sjs-C3">
+  </td>
+  <td data-t="s" data-v="0.4" id="sjs-D3">0.4</td>
+</tr>
+<tr>
+  <td data-t="s" data-v="    > 63" id="sjs-A4" xml:space="preserve">    &gt; 63</td>
+  <td data-t="s" data-v="11 (37%)" id="sjs-B4">11 (37%)</td>
+  <td data-t="s" data-v="5 (63%)" id="sjs-C4">5 (63%)</td>
+  <td id="sjs-D4">
+  </td>
+</tr>
+<tr>
+  <td data-t="s" data-v="    ≤ 63" id="sjs-A5" xml:space="preserve">    ≤ 63</td>
+  <td data-t="s" data-v="19 (63%)" id="sjs-B5">19 (63%)</td>
+  <td data-t="s" data-v="3 (38%)" id="sjs-C5">3 (38%)</td>
+  <td id="sjs-D5">
+  </td>
+</tr>
+<tr>
+  <td data-t="s" data-v="Gender " id="sjs-A6" xml:space="preserve">Gender </td>
+  <td id="sjs-B6">
+  </td>
+  <td id="sjs-C6">
+  </td>
+  <td data-t="s" data-v="0.8" id="sjs-D6">0.8</td>
+</tr>
+<tr>
+  <td data-t="s" data-v="    female" id="sjs-A7" xml:space="preserve">    female</td>
+  <td data-t="s" data-v="11 (37%)" id="sjs-B7">11 (37%)</td>
+  <td data-t="s" data-v="2 (25%)" id="sjs-C7">2 (25%)</td>
+  <td id="sjs-D7">
+  </td>
+</tr>
+<tr>
+  <td data-t="s" data-v="    male" id="sjs-A8" xml:space="preserve">    male</td>
+  <td data-t="s" data-v="19 (63%)" id="sjs-B8">19 (63%)</td>
+  <td data-t="s" data-v="6 (75%)" id="sjs-C8">6 (75%)</td>
+  <td id="sjs-D8">
+  </td>
+</tr>
+<tr>
+  <td data-t="s" data-v="Lauren" id="sjs-A9">Lauren</td>
+  <td id="sjs-B9">
+  </td>
+  <td id="sjs-C9">
+  </td>
+  <td data-t="s" data-v="0.10" id="sjs-D9">0.10</td>
+</tr>
+<tr>
+  <td data-t="s" data-v="    diffuse" id="sjs-A10" xml:space="preserve">    diffuse</td>
+  <td data-t="s" data-v="10 (33%)" id="sjs-B10">10 (33%)</td>
+  <td data-t="s" data-v="1 (13%)" id="sjs-C10">1 (13%)</td>
+  <td id="sjs-D10">
+  </td>
+</tr>
+<tr>
+  <td data-t="s" data-v="    intestinal" id="sjs-A11" xml:space="preserve">    intestinal</td>
+  <td data-t="s" data-v="19 (63%)" id="sjs-B11">19 (63%)</td>
+  <td data-t="s" data-v="5 (63%)" id="sjs-C11">5 (63%)</td>
+  <td id="sjs-D11">
+  </td>
+</tr>
+<tr>
+  <td data-t="s" data-v="    mixed" id="sjs-A12" xml:space="preserve">    mixed</td>
+  <td data-t="s" data-v="1 (3.3%)" id="sjs-B12">1 (3.3%)</td>
+  <td data-t="s" data-v="2 (25%)" id="sjs-C12">2 (25%)</td>
+  <td id="sjs-D12">
+  </td>
+</tr>
+<tr>
+  <td data-t="s" data-v="Topography" id="sjs-A13">Topography</td>
+  <td id="sjs-B13">
+  </td>
+  <td id="sjs-C13">
+  </td>
+  <td data-t="s" data-v="0.3" id="sjs-D13">0.3</td>
+</tr>
+<tr>
+  <td data-t="s" data-v="    all stomach" id="sjs-A14" xml:space="preserve">    all stomach</td>
+  <td data-t="s" data-v="4 (13%)" id="sjs-B14">4 (13%)</td>
+  <td data-t="s" data-v="2 (25%)" id="sjs-C14">2 (25%)</td>
+  <td id="sjs-D14">
+  </td>
+</tr>
+<tr>
+  <td data-t="s" data-v="    antrum" id="sjs-A15" xml:space="preserve">    antrum</td>
+  <td data-t="s" data-v="6 (20%)" id="sjs-B15">6 (20%)</td>
+  <td data-t="s" data-v="2 (25%)" id="sjs-C15">2 (25%)</td>
+  <td id="sjs-D15">
+  </td>
+</tr>
+<tr>
+  <td data-t="s" data-v="    antrum e pylorus" id="sjs-A16" xml:space="preserve">    antrum e pylorus</td>
+  <td data-t="s" data-v="4 (13%)" id="sjs-B16">4 (13%)</td>
+  <td data-t="s" data-v="1 (13%)" id="sjs-C16">1 (13%)</td>
+  <td id="sjs-D16">
+  </td>
+</tr>
+<tr>
+  <td data-t="s" data-v="    body" id="sjs-A17" xml:space="preserve">    body</td>
+  <td data-t="s" data-v="9 (30%)" id="sjs-B17">9 (30%)</td>
+  <td data-t="s" data-v="0 (0%)" id="sjs-C17">0 (0%)</td>
+  <td id="sjs-D17">
+  </td>
+</tr>
+<tr>
+  <td data-t="s" data-v="    body e antrum" id="sjs-A18" xml:space="preserve">    body e antrum</td>
+  <td data-t="s" data-v="4 (13%)" id="sjs-B18">4 (13%)</td>
+  <td data-t="s" data-v="3 (38%)" id="sjs-C18">3 (38%)</td>
+  <td id="sjs-D18">
+  </td>
+</tr>
+<tr>
+  <td data-t="s" data-v="    GEJ/Cardia" id="sjs-A19" xml:space="preserve">    GEJ/Cardia</td>
+  <td data-t="s" data-v="3 (10%)" id="sjs-B19">3 (10%)</td>
+  <td data-t="s" data-v="0 (0%)" id="sjs-C19">0 (0%)</td>
+  <td id="sjs-D19">
+  </td>
+</tr>
+<tr>
+  <td data-t="s" data-v="Grade" id="sjs-A20">Grade</td>
+  <td id="sjs-B20">
+  </td>
+  <td id="sjs-C20">
+  </td>
+  <td data-t="s" data-v="0.2" id="sjs-D20">0.2</td>
+</tr>
+<tr>
+  <td data-t="s" data-v="    moderately differentiated" id="sjs-A21" xml:space="preserve">    moderately differentiated</td>
+  <td data-t="s" data-v="10 (50%)" id="sjs-B21">10 (50%)</td>
+  <td data-t="s" data-v="6 (86%)" id="sjs-C21">6 (86%)</td>
+  <td id="sjs-D21">
+  </td>
+</tr>
+<tr>
+  <td data-t="s" data-v="    poorly differentiated" id="sjs-A22" xml:space="preserve">    poorly differentiated</td>
+  <td data-t="s" data-v="10 (50%)" id="sjs-B22">10 (50%)</td>
+  <td data-t="s" data-v="1 (14%)" id="sjs-C22">1 (14%)</td>
+  <td id="sjs-D22">
+  </td>
+</tr>
+<tr>
+  <td data-t="s" data-v="    Unknown" id="sjs-A23" xml:space="preserve">    Unknown</td>
+  <td data-t="n" data-v="10" id="sjs-B23">10</td>
+  <td data-t="n" data-v="1" id="sjs-C23">1</td>
+  <td id="sjs-D23">
+  </td>
+</tr>
+<tr>
+  <td data-t="s" data-v="T grade" id="sjs-A24">T grade</td>
+  <td id="sjs-B24">
+  </td>
+  <td id="sjs-C24">
+  </td>
+  <td data-t="s" data-v="0.7" id="sjs-D24">0.7</td>
+</tr>
+<tr>
+  <td data-t="s" data-v="    T1-T2" id="sjs-A25" xml:space="preserve">    T1-T2</td>
+  <td data-t="s" data-v="4 (13%)" id="sjs-B25">4 (13%)</td>
+  <td data-t="s" data-v="0 (0%)" id="sjs-C25">0 (0%)</td>
+  <td id="sjs-D25">
+  </td>
+</tr>
+<tr>
+  <td data-t="s" data-v="    T3-T4" id="sjs-A26" xml:space="preserve">    T3-T4</td>
+  <td data-t="s" data-v="26 (87%)" id="sjs-B26">26 (87%)</td>
+  <td data-t="s" data-v="8 (100%)" id="sjs-C26">8 (100%)</td>
+  <td id="sjs-D26">
+  </td>
+</tr>
+<tr>
+  <td data-t="s" data-v="N grade" id="sjs-A27">N grade</td>
+  <td id="sjs-B27">
+  </td>
+  <td id="sjs-C27">
+  </td>
+  <td data-t="s" data-v="0.8" id="sjs-D27">0.8</td>
+</tr>
+<tr>
+  <td data-t="s" data-v="    N0" id="sjs-A28" xml:space="preserve">    N0</td>
+  <td data-t="s" data-v="8 (27%)" id="sjs-B28">8 (27%)</td>
+  <td data-t="s" data-v="3 (38%)" id="sjs-C28">3 (38%)</td>
+  <td id="sjs-D28">
+  </td>
+</tr>
+<tr>
+  <td data-t="s" data-v="    N1-N2" id="sjs-A29" xml:space="preserve">    N1-N2</td>
+  <td data-t="s" data-v="13 (43%)" id="sjs-B29">13 (43%)</td>
+  <td data-t="s" data-v="3 (38%)" id="sjs-C29">3 (38%)</td>
+  <td id="sjs-D29">
+  </td>
+</tr>
+<tr>
+  <td data-t="s" data-v="    N3" id="sjs-A30" xml:space="preserve">    N3</td>
+  <td data-t="s" data-v="9 (30%)" id="sjs-B30">9 (30%)</td>
+  <td data-t="s" data-v="2 (25%)" id="sjs-C30">2 (25%)</td>
+  <td id="sjs-D30">
+  </td>
+</tr>
+<tr>
+  <td data-t="s" data-v="Vascular Invasion" id="sjs-A31">Vascular Invasion</td>
+  <td id="sjs-B31">
+  </td>
+  <td id="sjs-C31">
+  </td>
+  <td data-t="s" data-v=">0.9" id="sjs-D31">&gt;0.9</td>
+</tr>
+<tr>
+  <td data-t="s" data-v="    absent" id="sjs-A32" xml:space="preserve">    absent</td>
+  <td data-t="s" data-v="12 (40%)" id="sjs-B32">12 (40%)</td>
+  <td data-t="s" data-v="3 (38%)" id="sjs-C32">3 (38%)</td>
+  <td id="sjs-D32">
+  </td>
+</tr>
+<tr>
+  <td data-t="s" data-v="    present" id="sjs-A33" xml:space="preserve">    present</td>
+  <td data-t="s" data-v="18 (60%)" id="sjs-B33">18 (60%)</td>
+  <td data-t="s" data-v="5 (63%)" id="sjs-C33">5 (63%)</td>
+  <td id="sjs-D33">
+  </td>
+</tr>
+<tr>
+  <td data-t="s" data-v="TIL" id="sjs-A34">TIL</td>
+  <td id="sjs-B34">
+  </td>
+  <td id="sjs-C34">
+  </td>
+  <td data-t="s" data-v="0.2" id="sjs-D34">0.2</td>
+</tr>
+<tr>
+  <td data-t="s" data-v="    absent" id="sjs-A35" xml:space="preserve">    absent</td>
+  <td data-t="s" data-v="0 (0%)" id="sjs-B35">0 (0%)</td>
+  <td data-t="s" data-v="1 (25%)" id="sjs-C35">1 (25%)</td>
+  <td id="sjs-D35">
+  </td>
+</tr>
+<tr>
+  <td data-t="s" data-v="    discreet" id="sjs-A36" xml:space="preserve">    discreet</td>
+  <td data-t="s" data-v="6 (38%)" id="sjs-B36">6 (38%)</td>
+  <td data-t="s" data-v="1 (25%)" id="sjs-C36">1 (25%)</td>
+  <td id="sjs-D36">
+  </td>
+</tr>
+<tr>
+  <td data-t="s" data-v="    intense" id="sjs-A37" xml:space="preserve">    intense</td>
+  <td data-t="s" data-v="3 (19%)" id="sjs-B37">3 (19%)</td>
+  <td data-t="s" data-v="1 (25%)" id="sjs-C37">1 (25%)</td>
+  <td id="sjs-D37">
+  </td>
+</tr>
+<tr>
+  <td data-t="s" data-v="    moderate" id="sjs-A38" xml:space="preserve">    moderate</td>
+  <td data-t="s" data-v="7 (44%)" id="sjs-B38">7 (44%)</td>
+  <td data-t="s" data-v="1 (25%)" id="sjs-C38">1 (25%)</td>
+  <td id="sjs-D38">
+  </td>
+</tr>
+<tr>
+  <td data-t="s" data-v="    Unknown" id="sjs-A39" xml:space="preserve">    Unknown</td>
+  <td data-t="n" data-v="14" id="sjs-B39">14</td>
+  <td data-t="n" data-v="4" id="sjs-C39">4</td>
+  <td id="sjs-D39">
+  </td>
+</tr>
+<tr>
+  <td data-t="s" data-v="Tumor Response Grade" id="sjs-A40">Tumor Response Grade</td>
+  <td id="sjs-B40">
+  </td>
+  <td id="sjs-C40">
+  </td>
+  <td data-t="s" data-v=">0.9" id="sjs-D40">&gt;0.9</td>
+</tr>
+<tr>
+  <td data-t="s" data-v="    score 2" id="sjs-A41" xml:space="preserve">    score 2</td>
+  <td data-t="s" data-v="3 (18%)" id="sjs-B41">3 (18%)</td>
+  <td data-t="s" data-v="0 (0%)" id="sjs-C41">0 (0%)</td>
+  <td id="sjs-D41">
+  </td>
+</tr>
+<tr>
+  <td data-t="s" data-v="    score 3" id="sjs-A42" xml:space="preserve">    score 3</td>
+  <td data-t="s" data-v="14 (82%)" id="sjs-B42">14 (82%)</td>
+  <td data-t="s" data-v="2 (100%)" id="sjs-C42">2 (100%)</td>
+  <td id="sjs-D42">
+  </td>
+</tr>
+<tr>
+  <td data-t="s" data-v="Neoadjuvance" id="sjs-A43">Neoadjuvance</td>
+  <td data-t="s" data-v="17 (57%)" id="sjs-B43">17 (57%)</td>
+  <td data-t="s" data-v="2 (25%)" id="sjs-C43">2 (25%)</td>
+  <td data-t="s" data-v="0.2" id="sjs-D43">0.2</td>
+</tr>
+<tr>
+  <td data-t="s" data-v="EBV" id="sjs-A44">EBV</td>
+  <td id="sjs-B44">
+  </td>
+  <td id="sjs-C44">
+  </td>
+  <td data-t="s" data-v=">0.9" id="sjs-D44">&gt;0.9</td>
+</tr>
+<tr>
+  <td data-t="s" data-v="    negative" id="sjs-A45" xml:space="preserve">    negative</td>
+  <td data-t="s" data-v="24 (80%)" id="sjs-B45">24 (80%)</td>
+  <td data-t="s" data-v="7 (88%)" id="sjs-C45">7 (88%)</td>
+  <td id="sjs-D45">
+  </td>
+</tr>
+<tr>
+  <td data-t="s" data-v="    positive" id="sjs-A46" xml:space="preserve">    positive</td>
+  <td data-t="s" data-v="6 (20%)" id="sjs-B46">6 (20%)</td>
+  <td data-t="s" data-v="1 (13%)" id="sjs-C46">1 (13%)</td>
+  <td id="sjs-D46">
+  </td>
+</tr>
+<tr>
+  <td data-t="s" data-v="PD-L1" id="sjs-A47">PD-L1</td>
+  <td id="sjs-B47">
+  </td>
+  <td id="sjs-C47">
+  </td>
+  <td data-t="s" data-v=">0.9" id="sjs-D47">&gt;0.9</td>
+</tr>
+<tr>
+  <td data-t="s" data-v="    negative" id="sjs-A48" xml:space="preserve">    negative</td>
+  <td data-t="s" data-v="28 (93%)" id="sjs-B48">28 (93%)</td>
+  <td data-t="s" data-v="7 (88%)" id="sjs-C48">7 (88%)</td>
+  <td id="sjs-D48">
+  </td>
+</tr>
+<tr>
+  <td data-t="s" data-v="    positive" id="sjs-A49" xml:space="preserve">    positive</td>
+  <td data-t="s" data-v="2 (6.7%)" id="sjs-B49">2 (6.7%)</td>
+  <td data-t="s" data-v="1 (13%)" id="sjs-C49">1 (13%)</td>
+  <td id="sjs-D49">
+  </td>
+</tr>
+<tr>
+  <td colspan="4" data-t="s" data-v="1n (%)   . 2Pearson's Chi-squared test" id="sjs-A50">1<span style="font-size:10pt;">n (%)</span>
+  <span style="font-size:10pt;">
+    <i>
+      <sup>  </i>
+    </sup>
+  </span>
+  <span style="font-size:10pt;">
+    <i> . </i>
+  </span>
+  <span style="font-size:10pt;">
+    <i>
+      <sup>2</i>
+    </sup>
+  </span>
+  <span style="font-size:10pt;">
+    <i>Pearson's Chi-squared test</i>
+  </span>
+</td>
+</tr>
+</table>
+</body>
+</html>
